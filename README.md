@@ -1,24 +1,23 @@
-📚 Book Store Management System
+# 📚 Book Store Management System
 
-A full-stack Spring Boot web application for managing books with a clean and simple UI.
+A full-stack Spring Boot web application for managing books.
 
-#🚀 Tech Stack
-☕ Java
-🌱 Spring Boot
-🧩 Spring MVC
-🗄️ Hibernate / JPA
-🐬 MySQL
-🎨 Thymeleaf
-🌐 HTML, CSS
+---
 
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- Spring MVC
+- Hibernate
+- Thymeleaf
+- MySQL
+- HTML, CSS
 
-#✨ Features
-➕ Add new books
-📖 View all books
-✏️ Edit book details
-❌ Delete books
-📚 My Book List
-🎯 Clean and responsive UI using Thymeleaf
+---
 
-
-
+## ✨ Features
+- Add new books  
+- View book list  
+- Edit & delete books  
+- My Book List  
+- Clean UI using Thymeleaf  
